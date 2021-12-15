@@ -1,14 +1,5 @@
 <h1 align="center">
-  <div class="tenor-gif-embed" data-postid="14210354" data-share-method="host" data-aspect-ratio="1.30435" data-width="100%">
-    <a href="https://tenor.com/view/hi-hello-greeting-good-morning-hello-world-gif-14210354">
-      Hi Hello Sticker
-    </a>
-    from 
-    <a href="https://tenor.com/search/hi-stickers">
-      Hi Stickers
-    </a>
-  </div>
-  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://tenor.com/7MVq.gif" alt="hello-gif">
 <h3 align="center">FULL STACK DEVELOPER - PASSION IS KEY</h3>
 </h1>
 
@@ -37,7 +28,7 @@ href="https://alice-jost.netlify.app/">
 
 - 🏆 Currently working on an app for people with anxiety/fear of abandonment, allowing them to collect positive memories with people in their lives in order to prevent panic attacks.
 
-- ⚡ I can also fix your car.<br/>
+- ⚡ Fun fact: I can also fix your car.<br/>
 <br/>
   
 
