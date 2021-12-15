@@ -82,14 +82,11 @@ href="https://alice-jost.netlify.app/">
   <a href="https://heroku.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
   </a>
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="http://expressjs.com/" target="_blank">
-    <img src="https://iotbyhvm.ooo/wp-content/uploads/2019/01/expressjs.png" alt="git" width="40" height="40"/>
+    <img src="https://iotbyhvm.ooo/wp-content/uploads/2019/01/expressjs.png" alt="express" width="40" height="40"/>
   </a>
 </p>
 <br/>
