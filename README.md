@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://tenor.com/7MVq.gif" alt="hello-gif">
+  <div class="tenor-gif-embed" data-postid="14814839" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hello-speech-bubble-comic-hi-gif-14814839">Hello Speech Sticker</a>from <a href="https://tenor.com/search/hello-stickers">Hello Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h3 align="center">FULL STACK DEVELOPER - PASSION IS KEY</h3>
 </h1>
 
