@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="/Assets/hello.gif" alt="hello-gif"> 
+  <img width="45%" src="/Assets/hello.gif" alt="hello-gif"> 
 <h3 align="center">FULL STACK DEVELOPER - PASSION IS KEY</h3>
 </h1>
 
